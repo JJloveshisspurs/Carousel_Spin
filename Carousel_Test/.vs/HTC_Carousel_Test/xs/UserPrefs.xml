@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D6D5211C-2E91-013C-9F45-20DF523E4467}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CarouselInputController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CarouselInputController.cs" Line="214" Column="41" />
+      <File FileName="Assets/Scripts/CarouselObjectSpawner.cs" Line="46" Column="31" />
+      <File FileName="Assets/Scripts/CarouselClickables.cs" Line="35" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7e2411de-108f-445f-8077-488d74cc0a09" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
